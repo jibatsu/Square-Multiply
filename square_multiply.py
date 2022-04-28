@@ -12,7 +12,7 @@ def inputs():
     e = exp
     m = mod
 
-    #basic(n,e,m)
+    basic(n,e,m)
     squareMult(n,e,m)
 
 def loops():
